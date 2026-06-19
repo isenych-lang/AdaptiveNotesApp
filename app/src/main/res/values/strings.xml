@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adaptive Notes</string>
+    <string name="back">Back</string>
+    <string name="notes_list">Notes</string>
+    <string name="details">Details</string>
+    <string name="empty_details">Select a note to view details</string>
+</resources>
