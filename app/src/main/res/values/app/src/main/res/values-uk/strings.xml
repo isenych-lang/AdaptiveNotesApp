@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Адаптивні Нотатки</string>
+    <string name="back">Назад</string>
+    <string name="notes_list">Нотатки</string>
+    <string name="details">Деталі</string>
+    <string name="empty_details">Виберіть нотатку для перегляду деталей</string>
+</resources>
